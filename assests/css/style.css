@@ -1,0 +1,29 @@
+p1 {
+    width: 50%;
+    text-align: right;
+    font-size: 40;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-transform: capitalize;
+    word-spacing: 0cqmin;
+    white-space: nowrap;
+    text-shadow: 0.3px 1.5px;
+}
+
+div {
+    width: 40%;
+    text-align: center;
+    text-align-last: left;
+    text-decoration: dashed;
+}
+
+#message {
+    text-indent: 20px;
+    letter-spacing: 2.5px;
+}
+#N{
+    font-size: 50px;
+    text-shadow: 2px 1.4px 5px;
+
+    color:red;
+}
